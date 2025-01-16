@@ -1,0 +1,95 @@
+body{
+  background: tan;
+  font-family: sans-serif;
+  max-width:700px;
+  margin:20px auto;
+   
+}
+img{
+  max-width: 320px;
+  border-radius: 20px;
+  box-shadow: 4px 6px 8px;
+  border: 4px white solid;
+  border-bottom:30px solid white;
+  rotate: -5deg;
+  margin: 20px 0;
+  transition:0.5s;
+}
+img:hover{
+  scale:1.4;
+  rotate:0deg;
+  filter: sepia(1);
+}
+a{
+  text-decoration: none; 
+  color: brown;
+}
+nav ul{
+  display: flex;
+  gap: 10px;
+  
+  list-style:none;
+  padding-left:0;
+}
+
+main ul{
+  display:block;
+  list-style:disc;
+  padding-left:40px;
+}
+
+.miboton{
+  background: brown;
+  color: white;
+  padding: 4px 28px;
+  border-radius:8px;
+  border:solid 3px white;
+  letter-spacing: 8px;
+  text-transform:uppercase;
+  box-shadow: 3px 3px 8px black;
+  text-shadow: 2px 2px 8px black;
+  transition:0.5s;
+}
+.miboton:hover{
+  background: black;
+  letter-spacing: 4px;
+  box-shadow: 3px 3px 20px red;
+  text-shadow: 1px 1px 4px red;
+}
+main{
+  display: flex;
+  gap: 60px;
+}
+.titulillo{
+  display:block;
+
+}
+header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  background: white;
+  padding: 12px 20px;
+}
+.logo{
+  color:brown;
+  font-weight: bold;
+  font-size: 53px;
+  text-shadow: 2px 2px 7px black;
+  -webkit-text-stroke: 1px white;
+  
+}
+.catalogo{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-left: 0;
+}
+
+.catalogo img{
+  margin-top: 40px;
+  margin-bottom: 10px;
+  max-width: 150px;
+  rotate:0deg;
+  object-fit: cover;
+}

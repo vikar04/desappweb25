@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    color: rgb(0, 136, 0);
+}
+
+a{
+    color:rgb(0, 155, 134);
+    text-decoration: none;
+}
+
+ul{
+    background:wheat;
+    list-style: none;
+    padding: 0;
+}
+
+img{
+    max-width: 80%;
+    border-radius:20px;
+}
+body *{
+   
+}
+
+header {
+    background: rgb(211, 193, 112);
+}
+
+main{
+    background: rgb(228, 213, 184);
+    color: rgb(12, 77, 17);
+}
+
+footer{
+    background: rgb(235, 225, 138);
+    color: blue;
+}
