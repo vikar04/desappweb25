@@ -1,6 +1,7 @@
 function fragmento(){
     let miHTML="";
-    for(i=1; i<=20;i++){
+    max=document.getElementById("num").value;
+    for(i=1; i<=max;i++){
         miHTML+=`<li ><img src="https://picsum.photos/id/${i}/50/50" alt="asd" onclick="abrirImagen(${i})"><p>Elemento ${i}</p></li>`
     }
     return miHTML;
@@ -13,5 +14,8 @@ function abrirImagen(numImg){
 }
 
 
-
+function pintar(){
 document.querySelector("ul").innerHTML=fragmento();
+}
+
+pintar()
