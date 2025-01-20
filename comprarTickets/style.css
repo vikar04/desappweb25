@@ -6,11 +6,20 @@ main{
     background-color: white;
     border-radius: 20px;
     padding: 20px;
+    box-shadow: 2px 5px 10px black ;
     
     text-align: center;
 }
 img{
     width: 200px;
+}
+h1{
+    background-color: #8989fc;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 2px 5px 10px black;
+    text-shadow: 2px 0px 5px black;
 }
 .banderado{
     text-align: center;

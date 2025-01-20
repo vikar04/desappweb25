@@ -1,5 +1,3 @@
-let conversion = 0.97;
-
 function pedir(){
     let cantidad = document.getElementById("num").value;
     let lugar=document.getElementById("evento").value
