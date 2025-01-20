@@ -10,7 +10,7 @@ main{
     text-align: center;
 }
 img{
-    width: 30px;
+    width: 200px;
 }
 .banderado{
     text-align: center;
@@ -27,6 +27,6 @@ button{
     border-radius: 20px;
     color:white;
     border:4px white solid;
-    outline: 4px rgb(0, 112, 17) solid;
-    background-color: rgb(0, 112, 17);
+    outline: 4px rgb(112, 0, 26) solid;
+    background-color: rgb(112, 0, 26);
 }
