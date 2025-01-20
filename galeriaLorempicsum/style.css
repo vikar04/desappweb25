@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+li{
+    width: 80px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+li:hover{
+    background-color: gray;
+    scale: 1.2;
+}
+

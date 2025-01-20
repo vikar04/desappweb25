@@ -9,15 +9,12 @@ function pedir(){
         valor = 40;
     }else if(lugar=="el Estreno de Avatar 3"){
         valor = 20;
-    }
-    else if(lugar=="el Estreno de Avatar 3"){
-        valor = 20;
     }else if(lugar=="la Opera"){
         valor = 80;
     }
     valor = valor*cantidad;
 
-    miHTML="<h2> Su pedido de "+cantidad+" entradas para <em>"+lugar+"</em> con un valor de "+valor+"€ ha sido completado</h2>";
+    miHTML="<h2> Su pedido de "+cantidad+" entradas para <em>"+lugar+"</em>, con un valor de "+valor+"€, ha sido completado</h2>";
     
     
     
