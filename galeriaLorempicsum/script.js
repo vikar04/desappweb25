@@ -8,9 +8,9 @@ function fragmento(){
 }
 
 function abrirImagen(numImg){
-    document.getElementById("imagenGrande").src="https://picsum.photos/id/"+numImg+"/300/300";
-    document.getElementById("enlace").innerHTML="https://picsum.photos/id/"+numImg+"/300/300"
-    document.getElementById("enlace").href="https://picsum.photos/id/"+numImg+"/300/300"
+    document.getElementById("imagenGrande").src="https://picsum.photos/id/"+numImg+"/200/200";
+    document.getElementById("enlace").innerHTML="https://picsum.photos/id/"+numImg+"/200/200"
+    document.getElementById("enlace").href="https://picsum.photos/id/"+numImg+"/200/200"
 }
 
 
