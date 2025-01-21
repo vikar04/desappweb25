@@ -1,0 +1,12 @@
+body{
+    background-color: tan;
+
+}
+
+ul{
+    background-color: white;
+    border-radius: 20px;
+    width: 200px;
+    padding: 10px;
+    list-style: none;
+}

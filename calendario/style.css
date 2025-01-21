@@ -1,0 +1,84 @@
+/* chatgpt */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    width: 80%;
+    max-width: 800px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #007BFF;
+    color: white;
+}
+
+thead td {
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+tbody {
+    text-align: center;
+}
+
+tbody td {
+    padding: 15px;
+    width: 15%; 
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+tbody td:hover {
+    background-color: #f1f1f1;
+}
+
+tbody td:nth-child(7) {
+    color: red;
+}
+
+tbody td:nth-child(1) {
+    color: blue;
+}
+
+td {
+    font-size: 16px;
+}
+
+tr {
+    height: 50px;
+}
+
+table:first-of-type {
+    margin-top: 0;
+}
+
+table:last-of-type {
+    margin-bottom: 0;
+}
+
+h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+td:empty {
+    background-color: #f9f9f9;
+}
+
+td.selected {
+    background-color: #007BFF;
+    color: white;
+}

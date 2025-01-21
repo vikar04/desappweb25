@@ -1,0 +1,23 @@
+li{
+    list-style: none;
+    margin-bottom: 10px;
+    outline: 2px tan solid;
+    border-radius: 20px;
+    padding: 15px;
+    width: 300px;
+}
+
+span{
+    background-color: tan;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 5px;
+    outline: 2px tan solid;
+    outline-offset: 2px;
+    transition: 0.5s;
+}
+span:hover{
+    background-color: rgb(181, 117, 35);
+    outline: 4px rgb(181, 117, 35) solid;
+    outline-offset: 3px;
+}
