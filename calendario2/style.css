@@ -36,6 +36,7 @@ li{
     text-align: center;
     font-weight: bold;
     padding: 3px;
+    cursor: default;
 }
 
 li:hover{
@@ -43,6 +44,10 @@ li:hover{
     outline-offset: 3px;
     border-radius: 50%;
     background-color: rgb(245, 169, 62);
+}
+
+::selection{
+    background-color: transparent;
 }
 
 li:nth-child(1),
