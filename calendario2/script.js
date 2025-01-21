@@ -5,7 +5,7 @@ const meses = [
 ]
 
 let libreta = '';
-libreta+=`<h1>Calendario 2025</h1>`
+libreta+=`<h1>Calendario 2025</h1><ul>`
 for (j = 0; j < 12; j++) {
     libreta+=`<ul class="contendor"><li>L</li>
         <li>M</li>
@@ -19,4 +19,5 @@ for (j = 0; j < 12; j++) {
     }
     libreta+=`</ul>`
 }
+libreta+=`</ul>`
 document.body.innerHTML=libreta;

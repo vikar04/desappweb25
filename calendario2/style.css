@@ -10,12 +10,6 @@ body {
     border-radius: 10px;
 }
 
-body * {
-    outline: grey solid 1px;
-    margin: 2px;
-    padding: 2px;
-}
-
 h1{
     text-align: center;
 }
@@ -24,10 +18,30 @@ ul {
     list-style: none;
     padding-left: 0;
     margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:10px;
 }
+
+ul ul{
+    background-color: beige;
+    border: 2px rgb(111, 111, 111) solid;
+    border-radius: 20px;
+    padding: 10px;
+}
+
 li{
     text-align: center;
     font-weight: bold;
+    padding: 3px;
+}
+
+li:hover{
+    outline: 2px rgb(245, 169, 62) solid;
+    outline-offset: 3px;
+    border-radius: 50%;
+    background-color: rgb(245, 169, 62);
 }
 
 li:nth-child(1),
@@ -38,8 +52,10 @@ li:nth-child(5),
 li:nth-child(6),
 li:nth-child(7),
 li:nth-child(n):nth-child(-n+7){
+    padding: 5px;
     background-color: grey;
     color:white;
+    border-radius: 50%;
 }
 
 li:nth-child(7n),
