@@ -1,9 +1,9 @@
-let datos=[
+let datos = [
     ["pepe", "1234"],
     ["Lupe", "asdf"]
 ]
 
-function verificar(){
+function verificar() {
     let use = document.getElementById("user").value
     let cont = document.getElementById("pass").value
 
@@ -15,15 +15,15 @@ function verificar(){
         alert(errorMsg)
         return;
     }
-    for(i=0; i<datos.length; i++){
-        
-        if(use==datos[i][0]){
-            if(cont==datos[i][1]){
-                errorMsg +="Inicio de sesion correcto";
+    for (i = 0; i < datos.length; i++) {
+
+        if (use == datos[i][0]) {
+            if (cont == datos[i][1]) {
+                errorMsg += "Inicio de sesion correcto";
                 alert(errorMsg)
                 return;
-            }else{
-                errorMsg +="Datos introducidos incorrectos";
+            } else {
+                errorMsg += "Datos introducidos incorrectos";
                 alert(errorMsg)
                 return;
             }
