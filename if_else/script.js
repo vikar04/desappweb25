@@ -12,21 +12,23 @@ function verificar(){
     // Validar si los campos están vacíos
     if (!use || !cont) {
         errorMsg += "Por favor, ingresa usuario y contraseña.";
-        document.getElementById("error").innerHTML=errorMsg
+        alert(errorMsg)
         return;
     }
     for(i=0; i<datos.length; i++){
         
         if(use==datos[i][0]){
             if(cont==datos[i][1]){
-                document.getElementById("error").innerHTML="Inicio de sesion correcto";
+                errorMsg +="Inicio de sesion correcto";
+                alert(errorMsg)
                 return;
             }else{
-                document.getElementById("error").innerHTML="datos incorrectos";
+                errorMsg +="datos incorrectos";
+                alert(errorMsg)
                 return;
             }
         }
     }
     errorMsg += "Datos no encontrados";
-        document.getElementById("error").innerHTML=errorMsg
+    alert(errorMsg)
 }
