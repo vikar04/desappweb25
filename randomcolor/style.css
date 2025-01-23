@@ -1,0 +1,33 @@
+#referencia{
+    color: white;
+    text-shadow: 2px 2px 2px black ;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap:20px;
+    
+}
+
+li{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.color{
+    
+    padding: 40px;
+    margin: 0 auto;
+    
+}
+
+.ref{
+    font-weight: bold;
+    background-color: darkgrey;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
