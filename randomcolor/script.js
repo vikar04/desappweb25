@@ -35,6 +35,9 @@ function cambioDiv() {
 }
 
 cambioC();
-cambioDiv();
-
 setInterval(cambioC, 5000);
+
+cambioDiv();
+setInterval(cambioDiv, 3000);
+
+
