@@ -23,7 +23,7 @@ function verificar(){
                 alert(errorMsg)
                 return;
             }else{
-                errorMsg +="datos incorrectos";
+                errorMsg +="Datos introducidos incorrectos";
                 alert(errorMsg)
                 return;
             }
