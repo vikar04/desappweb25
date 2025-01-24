@@ -19,7 +19,7 @@ const numeros = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 //     "'", '"', ',', '.', '/', '<', '>', '?', '~', '`', "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
 function generarPass(){
-    let long= document.getElementById("num").checked;
+    let long= document.getElementById("num").value;
     let pass="";
     let minus=document.getElementById("min").checked;
     let mayus=document.getElementById("may").checked;
@@ -27,20 +27,20 @@ function generarPass(){
     let simb=document.getElementById("sim").checked;
     console.log(simb);
     let digits=[];
-    if(minus=="on"){
+    if(minus){
        digits= digits.concat(letrasMinusculas);
     }
-    if(mayus=="on"){
+    if(mayus){
         digits= digits.concat(letrasMayusculas);
     }
-    if(numer=="on"){
+    if(numer){
         digits=digits.concat(numeros);
     }
-    if(simb=="on"){
+    if(simb){
         digits= digits.concat(simb);
     }
 
-    if((minus!="on") && (mayus!="on") && (numer!="on") && (simb!="on")){
+    if((!minus) && (!mayus) && (!numer) && (!simb)){
         alert("Debes marcar al menos una casilla");
     }else{
 
