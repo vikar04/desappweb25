@@ -11,29 +11,29 @@ const preguntas = [
 ];
 
 function generarTest() {
-    let cuest="<ol>"
+    let cuest = "<ol>"
     for (i = 0; i < preguntas.length; i++) {
-        cuest+=`<li><h3>${preguntas[i][0]}</h3>`;
-        for(j=0;j<preguntas[i][1].length; j++){
-            cuest+=`<input type="radio" name="p${i}" id="p${i}${j}">`;
-            cuest+=`<label for="p${i}${j}">${preguntas[i][1][j]}</label>`;
-            cuest+=`<br>`;
+        cuest += `<li><h3>${preguntas[i][0]}</h3>`;
+        for (j = 0; j < preguntas[i][1].length; j++) {
+            cuest += `<input type="radio" name="p${i}" id="p${i}${j}">`;
+            cuest += `<label for="p${i}${j}">${preguntas[i][1][j]}</label>`;
+            cuest += `<br>`;
         }
-        cuest+=`</li>`;
+        cuest += `</li>`;
     }
-    cuest+=`</ol>`
-    document.querySelector("section").innerHTML=cuest;
+    cuest += `</ol>`
+    document.querySelector("section").innerHTML = cuest;
 }
 
 generarTest();
 
-function corregir(){
-     let nota=0;
-     for(i=0;i<preguntas.length; i++){
-        let verificacion=document.getElementById('p'+i+''+preguntas[i][2]).checked;
-        if (verificacion){
+function corregir() {
+    let nota = 0;
+    for (i = 0; i < preguntas.length; i++) {
+        let verificacion = document.getElementById('p' + i + '' + preguntas[i][2]).checked;
+        if (verificacion) {
             nota++;
         }
     }
-    document.querySelector("span").innerHTML=nota+"/"+preguntas.length;
+    document.querySelector("span").innerHTML = nota + "/" + preguntas.length;
 }
