@@ -1,0 +1,78 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    text-align: center;
+}
+
+/* Encabezado principal */
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Sección del cuestionario */
+section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 600px;
+    margin-bottom: 30px;
+    margin: auto;
+}
+
+ol {
+    padding-left: 20px;
+    text-align: left;
+}
+
+/* Estilo de las preguntas */
+li {
+    margin-bottom: 20px;
+}
+
+/* Estilo de las opciones de respuesta */
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+label {
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* Botón de corrección */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Puntuación */
+h2 {
+    font-size: 1.8em;
+    color: #333;
+}
+
+span {
+    font-size: 1.5em;
+    color: #333;
+    font-weight: bold;
+}
+
