@@ -35,7 +35,7 @@ function anterior(){
     verificar();
     
     document.querySelector("h2").innerHTML="Frase: "+(indiceAct+1)
-    document.querySelector("p").innerHTML= cartelera[indiceAct][0];
+    document.querySelector("p").innerHTML="<em>"+cartelera[indiceAct][0]+"</em>";
     document.querySelector("img").src=cartelera[indiceAct][2];
     document.querySelector("h3").innerHTML=cartelera[indiceAct][1];
 }
