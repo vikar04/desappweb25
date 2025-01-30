@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mundo Italiano</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -45,7 +45,7 @@
                 <ul>
                     <li>
                         <details>
-                            <summary>Guías</summary>
+                            <summary><i class="fa-solid fa-circle-exclamation fa-sm"></i> Guías</summary>
                             <h3>Guías Turísticas Locales:</h3>
                             <p>Ofrece tours guiados en diferentes ciudades o regiones, tanto en grupo como privados, con
                                 guías
@@ -55,7 +55,7 @@
 
                     <li>
                         <details>
-                            <summary>Itinerarios</summary>
+                            <summary> <i class="fa-solid fa-circle-exclamation fa-sm"></i> Itinerarios</summary>
                             <h3>Itinerarios personalizados para ti:</h3>
                             <p>Crea itinerarios a medida según las preferencias de cada viajero, desde viajes
                                 románticos,
@@ -65,7 +65,7 @@
 
                     <li>
                         <details>
-                            <summary>Asesoramiento</summary>
+                            <summary><i class="fa-solid fa-circle-exclamation fa-sm"></i> Asesoramiento</summary>
                             <h3>Asesoramiento en la Elección de Alojamiento</h3>
                             <p>Recomendaciones de hoteles, hostales o casas rurales en Italia según el tipo de
                                 experiencia
@@ -76,7 +76,7 @@
 
                     <li>
                         <details>
-                            <summary>Transporte</summary>
+                            <summary><i class="fa-solid fa-circle-exclamation fa-sm"></i> Transporte</summary>
                             <h3>Transporte en Italia:</h3>
                             <p>Ofrece opciones para alquiler de coches, transporte en tren, traslados privados o
                                 excursiones
@@ -87,7 +87,7 @@
 
                     <li>
                         <details>
-                            <summary>Especial</summary>
+                            <summary><i class="fa-solid fa-circle-exclamation fa-sm"></i> Especial</summary>
                             <h3>Paquetes extras:</h3>
                             <p>Como viajes de vino, tours gastronómicos, clases de cocina italiana o viajes de arte y
                                 cultura,
@@ -97,7 +97,7 @@
 
                     <li>
                         <details>
-                            <summary>Atencion 24/7</summary>
+                            <summary><i class="fa-solid fa-circle-exclamation fa-sm"></i> Atencion 24/7</summary>
                             <h3>Atención personalizada a tiempo completo</h3>
                             <p>Para que los viajeros puedan sentirse acompañados en todo momento, brindándoles soporte a
                                 cualquier hora si tienen alguna duda o necesitan ayuda.</p>
@@ -107,16 +107,18 @@
                 </ul>
             </article>
 
-            <article>
+            <article id="generador">
                 <h2>Descubre lugares interesantes</h2>
                 <div id="generaImg">
-                <img src="" alt="" id="foto"></span>
-                <h3 id="h3img"></h3>
-                <p id="pimg"></p>
-                <button onclick="anterior()" id="bntAnt">Anterior</button>
-                <button onclick="aleatorio()">Aleatorio</button>
-                <button onclick="siguiente()" id="bntSig">Siguiente</button>
-            </div> 
+                    <img src="" alt="" id="foto">
+                    <h3 id="h3img"></h3>
+                    <p id="pimg"></p>
+                    <div class="botones">
+                        <button onclick="anterior()" id="bntAnt">Anterior</button>
+                        <button onclick="aleatorio()">Aleatorio</button>
+                        <button onclick="siguiente()" id="bntSig">Siguiente</button>
+                    </div>
+                </div>
             </article>
 
             <article id="contactos">
@@ -173,15 +175,10 @@
         </section>
     </main>
     <footer>
+        <p>&copy; 2025 PetCare Gijón | Todos los derechos reservados</p>
 
-        <div class="footer-content">
-            <p>&copy; 2025 PetCare Gijón | Todos los derechos reservados</p>
-            <div class="cookies-notice">
-                <p>Este sitio web utiliza cookies para mejorar tu experiencia. <a href="/politica-de-cookies">Leer
-                        más</a></p>
-            </div>
-        </div>
-
+        <p>Este sitio web utiliza cookies para mejorar tu experiencia. <a href="#">Leer
+                más</a></p>
     </footer>
 
 

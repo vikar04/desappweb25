@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --c1: #43920b; 
-    --c2: rgb(232, 72, 72); 
+    --c1: #43920b;
+    --c2: rgb(232, 72, 72);
     --c3: white;
-    --ff1: italic; 
+    --ff1: italic;
     --ff2: "Sour Gummy", serif;
 }
 
@@ -14,7 +14,7 @@
     font-family: 'Arial', sans-serif;
 }
 
-img{
+img {
     background-color: white;
     width: 200px;
 }
@@ -22,20 +22,21 @@ img{
 
 header {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     background-color: var(--c1);
-    width: 100%;
     box-shadow: 0 2px 8px black;
     padding: 10px;
     margin: 0;
+    min-width: 320px;
 }
 
 header img {
     padding: 0;
     height: 150px;
     border-radius: 50%;
-    object-fit:fill;
+    object-fit: fill;
     margin: 20px;
 }
 
@@ -48,35 +49,36 @@ header img {
 #textlogo {
     font-size: 35px;
     font-weight: bold;
-    color:var(--c3);
-    text-shadow: 3px 4px 0px rgb(0, 0, 0);
+    color: var(--c3);
+    text-shadow: 3px 4px 0px rgb(116, 54, 4);
     font-family: var(--ff1);
     text-align: center;
     margin: 5px;
-    background-color: rgba(168, 100, 11, 0.697);
-    box-shadow: 2px 2px 5px black;
+    background-color: black;
+    box-shadow: 2px 2px 5px rgb(248, 247, 247);
     border-radius: 40px;
     padding: 10px;
 }
 
-#greenF{
+#greenF {
     color: var(--c1);
 }
 
-#redF{
+#redF {
     color: var(--c2);
 }
 
-#whiteF{
+#whiteF {
     color: var(--c3);
 }
 
-header nav{
+header nav {
     margin: 20px;
 }
 
 header nav ul {
     display: flex;
+    flex: wrap;
     gap: 10px;
     list-style: none;
     padding-left: 0;
@@ -91,60 +93,73 @@ header nav a {
     background-color: var(--c3);
     transition: 0.3s;
     border-radius: 40px;
-    
+
 }
 
 nav li {
-    background-color:var(--c3);
+    background-color: var(--c3);
     padding: 5px;
     text-align: center;
     align-items: center;
     box-shadow: 2px 2px 6px black;
-    transition:  0.3s;
+    transition: 0.3s;
     border-radius: 20px;
     border-bottom: 4px var(--c2) solid;
-    
+
 }
 
 nav li:hover,
-li:hover a{
+li:hover a {
     background-color: var(--c2);
-    scale:1.05;
+    scale: 1.05;
     color: white;
 }
 
-#intro img{
+#intro img {
     width: 100%;
     margin: 0;
     max-height: 600px;
     margin-bottom: 20px;
-    border-bottom:4px var(--c2) solid;
-    
+    border-bottom: 4px var(--c2) solid;
+
+}
+
+html {
+    padding: 0;
+    background-color: rgb(246, 186, 175);
 }
 
 body {
-    padding: 10px;  
+    margin: 10px 10px auto;
+    padding: 10px;
+    background: white;
+    max-width: 1520px;
+    min-width: 320px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 8px black;
+    transition: 1s;
 }
-main{
+
+main {
     margin: 30px;
 }
 
-ul{
+ul {
     list-style: none;
 }
 
-article{
+article {
     margin-bottom: 30px;
     border-bottom: 2px var(--c1) solid;
 }
 
-#contactos a{
+#contactos a {
     text-decoration: none;
     color: var(--c2);
 }
 
-summary{
-    text-align:center;
+summary {
+    text-align: center;
     font-weight: bold;
     background-color: var(--c2);
     border-radius: 20px;
@@ -155,34 +170,93 @@ summary{
     color: white;
     box-shadow: 2px 2px 10px var(--c1);
     width: 200px;
-  }
+    transition: 0.3s;
+}
 
-  details{
-        
+summary:hover{
+    color: var(--c2);
+    background-color: var(--c3);
+
+}
+
+details {
+
     margin: 20px;
     transition: 0.3s;
     border-radius: 20px;
-    
-    
+
+
 }
 
-details[open]{
-    box-shadow:3px 3px 8px black;
-    background:white;
-  margin: 10px;
-  padding: 20px;
+details[open] {
+    box-shadow: 3px 3px 8px black;
+    background: white;
+    margin: 10px;
+    padding: 20px;
 }
 
-#servicios ul{
+
+
+#servicios ul {
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
+    margin: auto;
 }
 
+#generaImg {
+    text-align: center;
+    align-items: center;
+    background-color: aliceblue;
+    border: 6px var(--c1) solid;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    max-width: 1200px;
+    max-height: 800px;
+    box-shadow: 1px 1px 5px black;
+
+}
+
+#generaImg img {
+    width: 100%;
+    height: 600px;
+
+
+}
+
+.botones {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-bottom: 10px;
+    margin-right: 20px;
+    background-color: var(--c2);
+    color: var(--c3);
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 1px 1px 5px black;
+    font-family: var(--ff2);
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: var(--c3);
+    color: var(--c2);
+    box-shadow: 1px 1px 10px var(--c1);
+}
+
+
+
 h1 {
+
+    font-size: clamp(12px, 20vw, 62px);
     text-align: center;
     margin-bottom: 20px;
-    font-size: 54px;
-    background-color:var(--c1) ;
+    background-color: var(--c1);
     color: white;
     border-radius: 40px;
     padding: 5px;
@@ -190,13 +264,13 @@ h1 {
     text-shadow: 1px 1px 2px black;
 }
 
-#F{
+#F {
     background-color: black;
     border-radius: 10px;
     padding: 3px;
 }
 
-h2  {
+h2 {
     font-size: 35px;
     color: var(--c1);
     margin-bottom: 15px;
@@ -210,12 +284,14 @@ h2  {
     padding: 5px;
 }
 
-h3{
+h3 {
     font-size: 25px;
     color: var(--c2);
 }
 
-h1, h2, h3{
+h1,
+h2,
+h3 {
     font-family: var(--ff2);
 }
 
@@ -223,6 +299,7 @@ p {
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 20px;
+    font-family: sans-serif;
 }
 
 footer {
@@ -232,17 +309,42 @@ footer {
     padding: 20px;
     font-size: 1rem;
     position: relative;
+    border-radius: 20px;
 }
 
-footer a{
+footer a {
     text-decoration: none;
     color: var(--c2);
     font-weight: bold;
     text-shadow: 1px 1px 2px black;
 }
 
+footer a:hover{
+    color: var(--c3);
+}
+
+@media(max-width:700px) {
+
+    body,
+    * {
+
+        border-radius: 0;
+        margin: 0;
+        box-shadow: 0;
+    }
 
 
+    @media(max-width:700px) {
+        #generador {
+            display: none;
 
+        }
 
+    }
+}
 
+@media(max-width:350px) {
+    #servicios summary {
+        border-radius: 0px;
+    }
+}
