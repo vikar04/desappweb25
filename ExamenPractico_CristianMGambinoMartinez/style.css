@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --c1: #43920b;
     --c2: rgb(232, 72, 72);
+    --c1: #92c76c;
     --c3: white;
+    
     --ff1: italic;
     --ff2: "Sour Gummy", serif;
 }

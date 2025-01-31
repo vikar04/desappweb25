@@ -9,8 +9,8 @@
 </head>
 <body>
     <header>
-        <?php include "bloques/menu"?>
+        <?php include "bloques/menu.php"?>
     
     </header>
     
-<main></main>
+<main>
