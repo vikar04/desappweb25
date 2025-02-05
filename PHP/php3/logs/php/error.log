@@ -1,0 +1,160 @@
+[03-Feb-2025 07:43:49 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 18
+[03-Feb-2025 07:43:49 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting "]" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 18
+[03-Feb-2025 07:44:14 UTC] PHP Parse error:  syntax error, unexpected variable "$texto" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 25
+[03-Feb-2025 07:44:14 UTC] PHP Parse error:  syntax error, unexpected variable "$texto" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 25
+[03-Feb-2025 07:52:50 UTC] PHP Parse error:  syntax error, unexpected variable "$students" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 51
+[03-Feb-2025 07:52:50 UTC] PHP Parse error:  syntax error, unexpected variable "$students" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 51
+[03-Feb-2025 07:52:59 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\curso\Local Sites\php3\app\public\index.php on line 51
+[03-Feb-2025 07:52:59 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\curso\Local Sites\php3\app\public\index.php on line 51
+[03-Feb-2025 07:54:58 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 68
+[03-Feb-2025 07:54:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 68
+[03-Feb-2025 07:54:58 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 68
+[03-Feb-2025 07:54:58 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 68
+[03-Feb-2025 08:00:43 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ";" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 74
+[03-Feb-2025 08:00:43 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ";" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 74
+[03-Feb-2025 08:01:00 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting ")" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 74
+[03-Feb-2025 08:01:00 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting ")" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 74
+[03-Feb-2025 08:01:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "i" in C:\Users\curso\Local Sites\php3\app\public\index.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php3\app\public\index.php on line 74
+[03-Feb-2025 08:01:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "i" in C:\Users\curso\Local Sites\php3\app\public\index.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php3\app\public\index.php on line 74
+[03-Feb-2025 08:02:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "i" in C:\Users\curso\Local Sites\php3\app\public\index.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php3\app\public\index.php on line 74
+[03-Feb-2025 08:02:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "i" in C:\Users\curso\Local Sites\php3\app\public\index.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php3\app\public\index.php on line 74
+[03-Feb-2025 08:02:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:02:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:02:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:09 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:09 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:10 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:10 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:10 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:28 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:28 UTC] PHP Warning:  Undefined array key 1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:28 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:28 UTC] PHP Warning:  Undefined array key 1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:30 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:30 UTC] PHP Warning:  Undefined array key 1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:30 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:30 UTC] PHP Warning:  Undefined array key 1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:30 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Undefined array key -1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Undefined array key -1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Undefined array key -1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Undefined array key -1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:04:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:05:02 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:05:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:05:02 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:05:02 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:35 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:35 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:35 UTC] PHP Warning:  Undefined array key 1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:35 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:35 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:35 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:35 UTC] PHP Warning:  Undefined array key 1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:35 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:36 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:36 UTC] PHP Warning:  Undefined array key 1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:36 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:36 UTC] PHP Warning:  Undefined array key 1 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:42 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:42 UTC] PHP Warning:  Undefined array key 0 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:06:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:17 UTC] PHP Warning:  Undefined variable $students in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:17 UTC] PHP Warning:  Undefined variable $students in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:18 UTC] PHP Warning:  Undefined variable $students in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:18 UTC] PHP Warning:  Undefined variable $students in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:42 UTC] PHP Warning:  Undefined variable $students in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:42 UTC] PHP Warning:  Undefined variable $students in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:42 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:43 UTC] PHP Warning:  Undefined variable $students in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:43 UTC] PHP Warning:  Undefined variable $students in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:07:43 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 75
+[03-Feb-2025 08:58:09 UTC] PHP Parse error:  syntax error, unexpected variable "$alumnos" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 13
+[03-Feb-2025 08:58:10 UTC] PHP Parse error:  syntax error, unexpected variable "$alumnos" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 13
+[03-Feb-2025 08:58:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 28
+[03-Feb-2025 08:58:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 28
+[03-Feb-2025 08:58:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 28
+[03-Feb-2025 08:58:25 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 28
+[03-Feb-2025 08:58:42 UTC] PHP Warning:  Undefined array key 6 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 24
+[03-Feb-2025 08:58:42 UTC] PHP Warning:  Undefined array key 7 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 24
+[03-Feb-2025 08:58:43 UTC] PHP Warning:  Undefined array key 6 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 24
+[03-Feb-2025 08:58:43 UTC] PHP Warning:  Undefined array key 7 in C:\Users\curso\Local Sites\php3\app\public\index.php on line 24
+[03-Feb-2025 11:10:51 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 40
+[03-Feb-2025 11:10:51 UTC] PHP Parse error:  syntax error, unexpected token ",", expecting "]" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 40
+[03-Feb-2025 11:11:06 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 67
+[03-Feb-2025 11:11:06 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 67
+[03-Feb-2025 11:11:15 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 67
+[03-Feb-2025 11:11:15 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 67
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined variable $i in C:\Users\curso\Local Sites\php3\app\public\index.php on line 65
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined variable $i in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined array key "" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined variable $i in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined array key "" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined variable $i in C:\Users\curso\Local Sites\php3\app\public\index.php on line 65
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined variable $i in C:\Users\curso\Local Sites\php3\app\public\index.php on line 65
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined variable $i in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined array key "" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined variable $i in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined array key "" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\curso\Local Sites\php3\app\public\index.php on line 66
+[03-Feb-2025 11:11:17 UTC] PHP Warning:  Undefined variable $i in C:\Users\curso\Local Sites\php3\app\public\index.php on line 65
+[03-Feb-2025 11:31:24 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 58
+[03-Feb-2025 11:31:24 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\curso\Local Sites\php3\app\public\index.php on line 58
+[03-Feb-2025 12:51:52 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in C:\Users\curso\Local Sites\php3\app\public\json\index.php on line 87
+[03-Feb-2025 12:53:12 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in C:\Users\curso\Local Sites\php3\app\public\json\index.php on line 87

@@ -1,0 +1,63 @@
+[31-Jan-2025 13:14:19 UTC] PHP Warning:  include(inc/data.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php2\app\public\index.php on line 2
+[31-Jan-2025 13:14:19 UTC] PHP Warning:  include(): Failed opening 'inc/data.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php2\app\public\index.php on line 2
+[31-Jan-2025 13:14:19 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:14:19 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:14:20 UTC] PHP Warning:  include(inc/data.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php2\app\public\index.php on line 2
+[31-Jan-2025 13:14:20 UTC] PHP Warning:  include(): Failed opening 'inc/data.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php2\app\public\index.php on line 2
+[31-Jan-2025 13:14:20 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:14:20 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:15:02 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:15:02 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:15:02 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:15:02 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:36:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\data.php:14
+Stack trace:
+#0 C:\Users\curso\Local Sites\php2\app\public\index.php(2): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\data.php on line 14
+[31-Jan-2025 13:36:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\data.php:14
+Stack trace:
+#0 C:\Users\curso\Local Sites\php2\app\public\index.php(2): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\data.php on line 14
+[31-Jan-2025 13:38:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\data.php:14
+Stack trace:
+#0 C:\Users\curso\Local Sites\php2\app\public\index.php(2): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\data.php on line 14
+[31-Jan-2025 13:38:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\data.php:14
+Stack trace:
+#0 C:\Users\curso\Local Sites\php2\app\public\index.php(2): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\data.php on line 14
+[31-Jan-2025 13:39:25 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\Users\curso\Local Sites\php2\app\public\index.php on line 3
+[31-Jan-2025 13:39:25 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\Users\curso\Local Sites\php2\app\public\index.php on line 3
+[31-Jan-2025 13:40:09 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\Users\curso\Local Sites\php2\app\public\index.php on line 3
+[31-Jan-2025 13:40:09 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\Users\curso\Local Sites\php2\app\public\index.php on line 3
+[31-Jan-2025 13:40:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\data.php:12
+Stack trace:
+#0 C:\Users\curso\Local Sites\php2\app\public\index.php(3): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\data.php on line 12
+[31-Jan-2025 13:40:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\data.php:12
+Stack trace:
+#0 C:\Users\curso\Local Sites\php2\app\public\index.php(3): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\data.php on line 12
+[31-Jan-2025 13:40:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\data.php:12
+Stack trace:
+#0 C:\Users\curso\Local Sites\php2\app\public\index.php(3): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\data.php on line 12
+[31-Jan-2025 13:41:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:41:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6
+[31-Jan-2025 13:41:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php2\app\public\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php2\app\public\index.php on line 6

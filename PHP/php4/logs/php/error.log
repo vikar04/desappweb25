@@ -1,0 +1,50 @@
+[05-Feb-2025 08:39:10 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "link", expecting "]" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 9
+[05-Feb-2025 08:39:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "link", expecting "]" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 9
+[05-Feb-2025 08:39:58 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 17
+[05-Feb-2025 08:39:58 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 17
+[05-Feb-2025 08:39:59 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 17
+[05-Feb-2025 08:39:59 UTC] PHP Parse error:  syntax error, unexpected token "function" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 17
+[05-Feb-2025 08:40:11 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 19
+[05-Feb-2025 08:40:11 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 19
+[05-Feb-2025 08:40:29 UTC] PHP Parse error:  syntax error, unexpected identifier "_blank", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 25
+[05-Feb-2025 08:40:29 UTC] PHP Parse error:  syntax error, unexpected identifier "_blank", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 25
+[05-Feb-2025 08:41:19 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 34
+[05-Feb-2025 08:41:19 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 34
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $link in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $texto in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 24
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $link in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $texto in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 24
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $link in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $texto in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 24
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $link in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $texto in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 24
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $link in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $texto in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 24
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $link in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $texto in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 22
+[05-Feb-2025 08:41:33 UTC] PHP Warning:  Undefined variable $target in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 24
+[05-Feb-2025 08:53:59 UTC] PHP Parse error:  syntax error, unexpected variable "$class" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 26
+[05-Feb-2025 08:53:59 UTC] PHP Parse error:  syntax error, unexpected variable "$class" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 26
+[05-Feb-2025 08:55:01 UTC] PHP Parse error:  syntax error, unexpected variable "$class" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 26
+[05-Feb-2025 08:55:01 UTC] PHP Parse error:  syntax error, unexpected variable "$class" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 26
+[05-Feb-2025 08:55:14 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 31
+[05-Feb-2025 08:55:14 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 31
+[05-Feb-2025 08:55:15 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 31
+[05-Feb-2025 08:55:15 UTC] PHP Parse error:  syntax error, unexpected token "if", expecting "," or ";" in C:\Users\curso\Local Sites\php4\app\public\includes\_config.php on line 31

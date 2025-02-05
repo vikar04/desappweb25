@@ -1,0 +1,3 @@
+2025/01/31 11:46:51 [error] 13420#12640: *3 directory index of "C:/Users/curso/Local Sites/phponm/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "phponm.local"
+2025/01/31 11:47:34 [error] 13420#12640: *6 directory index of "C:/Users/curso/Local Sites/phponm/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "phponm.local"
+2025/01/31 11:48:53 [error] 13420#12640: *8 directory index of "C:/Users/curso/Local Sites/phponm/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "phponm.local"

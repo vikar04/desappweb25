@@ -1,0 +1,7 @@
+[31-Jan-2025 10:49:26 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\Users\curso\Local Sites\phponm\app\public\index.php on line 5
+[31-Jan-2025 10:49:27 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\Users\curso\Local Sites\phponm\app\public\index.php on line 5
+[31-Jan-2025 10:49:28 UTC] PHP Parse error:  syntax error, unexpected token "include" in C:\Users\curso\Local Sites\phponm\app\public\index.php on line 5
+[31-Jan-2025 10:49:46 UTC] PHP Warning:  include(bloques/menu): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\phponm\app\public\bloques\header.php on line 12
+[31-Jan-2025 10:49:46 UTC] PHP Warning:  include(): Failed opening 'bloques/menu' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\phponm\app\public\bloques\header.php on line 12
+[31-Jan-2025 10:49:46 UTC] PHP Warning:  include(bloques/menu): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\phponm\app\public\bloques\header.php on line 12
+[31-Jan-2025 10:49:46 UTC] PHP Warning:  include(): Failed opening 'bloques/menu' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\phponm\app\public\bloques\header.php on line 12
