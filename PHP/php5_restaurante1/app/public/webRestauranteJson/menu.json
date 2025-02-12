@@ -1,0 +1,34 @@
+{
+    "platos": [
+        {
+            "nombre": "Cachopo",
+            "descripcion": "Filete de ternera relleno de jamón y queso, empanado y frito. Acompañado de patatas fritas y ensalada.",
+            "precio": "28.00€",
+            "imagen": "https:\/\/imagenes.20minutos.es\/files\/image_990_556\/uploads\/imagenes\/2022\/12\/07\/cachopo.jpeg"
+        },
+        {
+            "nombre": "Fabada Asturiana",
+            "descripcion": "Sopa espesa de alubias con chorizo, morcilla, tocino y panceta. Un plato tradicional asturiano muy sabroso.",
+            "precio": "18.00€",
+            "imagen": "https:\/\/imag.bonviveur.com\/fabada-asturiana.webp"
+        },
+        {
+            "nombre": "Sidra Asturiana",
+            "descripcion": "Sidra natural de la región, elaborada con manzanas autóctonas. Se sirve escanciada de forma tradicional.",
+            "precio": "4.50€",
+            "imagen": "https:\/\/www.sidrapinera.es\/wp-content\/webpc-passthru.php?src=https:\/\/www.sidrapinera.es\/wp-content\/uploads\/2022\/09\/comprar-sidra-asturiana-denominacion-origen.jpg&nocache=1"
+        },
+        {
+            "nombre": "Arroz con Pitu",
+            "descripcion": "Arroz con pollo de corral cocinado con pimientos, tomate, cebolla y caldo casero, típico de la zona de Cangas del Narcea.",
+            "precio": "22.00€",
+            "imagen": "https:\/\/s1.elespanol.com\/2020\/10\/31\/cocinillas\/recetas\/arroz-pollo-recetas_532458804_163996975_1706x960.jpg"
+        },
+        {
+            "nombre": "Tarta de Queso Asturiana",
+            "descripcion": "Deliciosa tarta de queso elaborada con queso asturiano, suave y cremosa, perfecta para el final de la comida.",
+            "precio": "6.00€",
+            "imagen": "https:\/\/lacocinadefrabisa.lavozdegalicia.es\/wp-content\/uploads\/2018\/10\/tarta-de-queso-alfuego-alpitu-6.jpg"
+        }
+    ]
+}

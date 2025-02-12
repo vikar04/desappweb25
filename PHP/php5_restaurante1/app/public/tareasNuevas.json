@@ -1,0 +1,29 @@
+{
+    "tareas": [
+        {
+            "titulo": "Llevar al perro al veterinario",
+            "descripcion": "Mi abuela me dijo que vio a Manolo muy triste ayer y que vomitaba mucho",
+            "fecha": "21\/2\/2025"
+        },
+        {
+            "titulo": "Comprar alimentos para la semana",
+            "descripcion": "Necesito comprar leche, pan, frutas y verduras para la semana.",
+            "fecha": "7\/2\/2025"
+        },
+        {
+            "titulo": "Reunión con el equipo de trabajo",
+            "descripcion": "Revisar el avance de los proyectos actuales y asignar nuevas tareas.",
+            "fecha": "9\/2\/2025"
+        },
+        {
+            "titulo": "Cita con el dentista",
+            "descripcion": "Revisión dental anual para asegurarme de que todo esté bien.",
+            "fecha": "15\/2\/2025"
+        },
+        {
+            "titulo": "Llamar a la agencia de viajes",
+            "descripcion": "Confirmar las reservas para el viaje a la playa del próximo mes.",
+            "fecha": "10\/2\/2025"
+        }
+    ]
+}

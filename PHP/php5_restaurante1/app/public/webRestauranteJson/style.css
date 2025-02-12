@@ -1,0 +1,182 @@
+/* Estilo general */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f1e1; /* Color cálido y suave */
+    color: #4a4a4a;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Encabezados */
+h1 {
+    text-align: center;
+    color: #2d3436;
+    font-size: 3em;
+    margin-top: 40px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3); /* Sombra para resaltar el texto */
+}
+
+h2 {
+    text-align: center;
+    color: #2d3436;
+    font-size: 1.8em;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+/* Contenedor principal */
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilo de los platos del menú */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra para dar un efecto flotante */
+    transition: all 0.3s ease;
+}
+
+ul li:hover {
+    background-color: #f9e7d2; /* Color suave al pasar el ratón */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+ul li img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+ul li strong {
+    color: #27ae60; /* Verde como color característico de la naturaleza asturiana */
+    font-size: 1.4em;
+}
+
+ul li ul {
+    margin-top: 10px;
+    font-size: 1.1em;
+    color: #7f8c8d;
+    font-style: italic;
+}
+
+/* Formularios de pedidos */
+form {
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo semitransparente */
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form label {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+form select,
+form input[type="number"] {
+    font-size: 1em;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+form input[type="submit"] {
+    background-color: #f39c12; /* Color dorado, evocando la sidra asturiana */
+    color: white;
+    padding: 12px 30px;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form input[type="submit"]:hover {
+    background-color: #e67e22;
+}
+
+/* Estilo de la lista de pedidos */
+ul.pedido-list {
+    margin-top: 30px;
+}
+
+ul.pedido-list li {
+    background-color: #f9e7d2;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+ul.pedido-list li strong {
+    font-size: 1.3em;
+    color: #c0392b;
+}
+
+/* Botón de limpiar lista */
+form input[type="submit"]:last-child {
+    background-color: #e74c3c;
+    margin-top: 10px;
+}
+
+form input[type="submit"]:last-child:hover {
+    background-color: #c0392b;
+}
+
+/* Estilos para la imagen en los productos */
+img {
+    border-radius: 8px;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.2em;
+    color: #7f8c8d;
+    font-style: italic;
+}
+
+/* Estilo responsive */
+@media screen and (max-width: 768px) {
+    ul li {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    ul li img {
+        margin-left: 0;
+        margin-bottom: 15px;
+        width: 100%;
+        max-width: 150px;
+    }
+
+    form input[type="submit"] {
+        width: 100%;
+    }
+}

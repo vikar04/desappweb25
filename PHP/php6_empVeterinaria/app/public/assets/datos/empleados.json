@@ -1,0 +1,46 @@
+{
+    "trabajador": [
+        {
+            "nombre": "Pedro Gonzales",
+            "edad": "25",
+            "experiencia": "3",
+            "mascota": "Rodolfo",
+            "imagen": "https://pampermut.com/blog/wp-content/uploads/2020/05/Como-es-el-caracter-de-tu-perro-segun-su-horoscopo-scaled.jpg"
+        },
+        {
+            "nombre": "Ana Martínez",
+            "edad": "30",
+            "experiencia": "5",
+            "mascota": "Luna",
+            "imagen": "https://www.patasencasa.com/sites/default/files/styles/article_detail_desktop/public/2024-10/chernyy-kot-koshka-tykvy.jpg.webp?itok=LSgr2Q6l"
+        },
+        {
+            "nombre": "Carlos López",
+            "edad": "28",
+            "experiencia": "4",
+            "mascota": "Max",
+            "imagen": "https://nutrias.es/wp-content/uploads/2023/10/bebe-nutria-1024x683.webp"
+        },
+        {
+            "nombre": "pepe",
+            "edad": "3",
+            "experiencia": "4",
+            "mascota": "eht",
+            "imagen": "5yy"
+        },
+        {
+            "nombre": "pepe",
+            "edad": "3",
+            "experiencia": "4",
+            "mascota": "eht",
+            "imagen": "5yy"
+        },
+        {
+            "nombre": "pepe",
+            "edad": "3",
+            "experiencia": "4",
+            "mascota": "eht",
+            "imagen": "5yy"
+        }
+    ]
+}

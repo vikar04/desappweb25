@@ -1,0 +1,193 @@
+[10-Feb-2025 08:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function data() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dat() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dat() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 08:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dat() in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php:3
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\index.php(13): include_once()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\bloques\footer.php on line 3
+[10-Feb-2025 09:30:52 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\bloques\config.php on line 11
+[10-Feb-2025 09:30:53 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\bloques\config.php on line 11
+[10-Feb-2025 09:40:37 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 9
+[10-Feb-2025 09:40:38 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 9
+[10-Feb-2025 09:40:38 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 9
+[10-Feb-2025 09:40:38 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 9
+[10-Feb-2025 09:40:39 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 9
+[10-Feb-2025 09:40:39 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 9
+[10-Feb-2025 09:40:39 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 9
+[10-Feb-2025 09:40:39 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 9
+[10-Feb-2025 11:00:25 UTC] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 11:00:25 UTC] PHP Parse error:  syntax error, unexpected token "if" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 11:00:37 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\curso\Local Sites\php6\app\public\bloques\config.php on line 38
+[10-Feb-2025 11:00:37 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\curso\Local Sites\php6\app\public\bloques\config.php on line 38
+[10-Feb-2025 11:00:58 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\curso\Local Sites\php6\app\public\bloques\config.php on line 38
+[10-Feb-2025 11:00:58 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting ";" in C:\Users\curso\Local Sites\php6\app\public\bloques\config.php on line 38
+[10-Feb-2025 11:01:38 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 12
+[10-Feb-2025 11:01:38 UTC] PHP Warning:  Undefined variable $listaEmpleados in C:\Users\curso\Local Sites\php6\app\public\index.php on line 12
+[10-Feb-2025 11:03:14 UTC] PHP Parse error:  syntax error, unexpected token "require" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 4
+[10-Feb-2025 11:03:14 UTC] PHP Parse error:  syntax error, unexpected token "require" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 4
+[10-Feb-2025 11:03:15 UTC] PHP Parse error:  syntax error, unexpected token "require" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 4
+[10-Feb-2025 11:03:15 UTC] PHP Parse error:  syntax error, unexpected token "require" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 4
+[10-Feb-2025 11:40:15 UTC] PHP Warning:  Undefined array key "nombre" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 38
+[10-Feb-2025 11:41:53 UTC] PHP Warning:  Undefined variable $nombre in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 48
+[10-Feb-2025 11:45:13 UTC] PHP Parse error:  syntax error, unexpected identifier "cargarJson" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 53
+[10-Feb-2025 11:51:31 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 55
+[10-Feb-2025 11:51:45 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 55
+[10-Feb-2025 11:51:46 UTC] PHP Parse error:  syntax error, unexpected token "[", expecting "(" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 55
+[10-Feb-2025 11:52:56 UTC] PHP Warning:  Undefined variable $nombreE in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 48
+[10-Feb-2025 11:52:56 UTC] PHP Warning:  Undefined variable $edad in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 49
+[10-Feb-2025 11:52:56 UTC] PHP Warning:  Undefined variable $XP in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 50
+[10-Feb-2025 11:52:56 UTC] PHP Warning:  Undefined variable $nombreP in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 51
+[10-Feb-2025 11:52:56 UTC] PHP Warning:  Undefined variable $nombreE in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 55
+[10-Feb-2025 12:05:34 UTC] PHP Warning:  Undefined variable $archivo in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:34 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\Users\curso\Local Sites\php6\app\public\admin.php:52
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\admin.php(52): file_put_contents('', '{\n    "trabajad...')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:35 UTC] PHP Warning:  Undefined variable $archivo in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:35 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\Users\curso\Local Sites\php6\app\public\admin.php:52
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\admin.php(52): file_put_contents('', '{\n    "trabajad...')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:37 UTC] PHP Warning:  Undefined variable $archivo in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:37 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\Users\curso\Local Sites\php6\app\public\admin.php:52
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\admin.php(52): file_put_contents('', '{\n    "trabajad...')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:45 UTC] PHP Warning:  Undefined variable $archivo in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:45 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\Users\curso\Local Sites\php6\app\public\admin.php:52
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\admin.php(52): file_put_contents('', '{\n    "trabajad...')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:48 UTC] PHP Warning:  Undefined variable $archivo in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:05:48 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in C:\Users\curso\Local Sites\php6\app\public\admin.php:52
+Stack trace:
+#0 C:\Users\curso\Local Sites\php6\app\public\admin.php(52): file_put_contents('', '{\n    "trabajad...')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 52
+[10-Feb-2025 12:07:14 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:14 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:14 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:14 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:14 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:17 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:18 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:07:29 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "edad" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 22
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "experiencia" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 23
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
