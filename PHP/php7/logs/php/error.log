@@ -1,0 +1,155 @@
+[14-Feb-2025 07:49:13 UTC] PHP Warning:  include(/dir.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php7\app\public\index.php on line 2
+[14-Feb-2025 07:49:13 UTC] PHP Warning:  include(): Failed opening '/dir.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php7\app\public\index.php on line 2
+[14-Feb-2025 07:52:55 UTC] PHP Parse error:  syntax error, unexpected variable "$arrayNoQuiero" in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 7
+[14-Feb-2025 07:53:13 UTC] PHP Parse error:  syntax error, unexpected variable "$arrayNoQuiero" in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 7
+[14-Feb-2025 07:53:15 UTC] PHP Parse error:  syntax error, unexpected variable "$arrayNoQuiero" in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 7
+[14-Feb-2025 07:55:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 07:55:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 07:55:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 07:57:06 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 11
+[14-Feb-2025 07:57:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 07:58:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:08:46 UTC] PHP Parse error:  syntax error, unexpected token "foreach", expecting "," or ";" in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 9
+[14-Feb-2025 08:08:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:23:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:23:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:23:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:34:18 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 22
+[14-Feb-2025 08:34:18 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null + string in C:\Users\curso\Local Sites\php7\app\public\dir.php:22
+Stack trace:
+#0 C:\Users\curso\Local Sites\php7\app\public\index.php(40): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 22
+[14-Feb-2025 08:34:19 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 22
+[14-Feb-2025 08:34:19 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null + string in C:\Users\curso\Local Sites\php7\app\public\dir.php:22
+Stack trace:
+#0 C:\Users\curso\Local Sites\php7\app\public\index.php(40): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 22
+[14-Feb-2025 08:34:26 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in C:\Users\curso\Local Sites\php7\app\public\dir.php:22
+Stack trace:
+#0 C:\Users\curso\Local Sites\php7\app\public\index.php(40): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 22
+[14-Feb-2025 08:34:27 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in C:\Users\curso\Local Sites\php7\app\public\dir.php:22
+Stack trace:
+#0 C:\Users\curso\Local Sites\php7\app\public\index.php(40): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 22
+[14-Feb-2025 08:34:27 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in C:\Users\curso\Local Sites\php7\app\public\dir.php:22
+Stack trace:
+#0 C:\Users\curso\Local Sites\php7\app\public\index.php(40): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 22
+[14-Feb-2025 08:35:23 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 23
+[14-Feb-2025 08:35:23 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null + string in C:\Users\curso\Local Sites\php7\app\public\dir.php:23
+Stack trace:
+#0 C:\Users\curso\Local Sites\php7\app\public\index.php(40): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 23
+[14-Feb-2025 08:35:24 UTC] PHP Warning:  Undefined variable $class in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 23
+[14-Feb-2025 08:35:24 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null + string in C:\Users\curso\Local Sites\php7\app\public\dir.php:23
+Stack trace:
+#0 C:\Users\curso\Local Sites\php7\app\public\index.php(40): include()
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\dir.php on line 23
+[14-Feb-2025 08:35:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:36:02 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:43:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:44:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:44:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:45:05 UTC] PHP Warning:  include(dir.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:45:05 UTC] PHP Warning:  include(): Failed opening 'dir.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:45:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 8
+[14-Feb-2025 08:45:08 UTC] PHP Warning:  include(dir.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:45:08 UTC] PHP Warning:  include(): Failed opening 'dir.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:45:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 8
+[14-Feb-2025 08:45:08 UTC] PHP Warning:  include(dir.php): Failed to open stream: No such file or directory in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:45:08 UTC] PHP Warning:  include(): Failed opening 'dir.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 6
+[14-Feb-2025 08:45:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 8
+[14-Feb-2025 08:45:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 5
+[14-Feb-2025 08:45:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 5
+[14-Feb-2025 08:50:42 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 5
+[14-Feb-2025 08:50:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 5
+[14-Feb-2025 09:04:44 UTC] PHP Parse error:  syntax error, unexpected token ">", expecting end of file in C:\Users\curso\Local Sites\php7\app\public\index.php on line 55
+[14-Feb-2025 09:04:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "data" in C:\Users\curso\Local Sites\php7\app\public\php2\index.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\Users\curso\Local Sites\php7\app\public\php2\index.php on line 5
+[14-Feb-2025 09:15:29 UTC] PHP Warning:  Undefined variable $arrayDirectorio in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:15:29 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:15:38 UTC] PHP Warning:  Undefined variable $arrayDirectorio in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:15:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:21:36 UTC] PHP Warning:  Undefined variable $arrayDirectorio in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:21:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:21:43 UTC] PHP Warning:  Undefined variable $arrayDirectorio in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:21:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:21:50 UTC] PHP Warning:  Undefined variable $arrayDirectorio in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:21:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\curso\Local Sites\php7\app\public\index.php on line 64
+[14-Feb-2025 09:38:19 UTC] PHP Warning:  Undefined variable $arrayDirectorio in C:\Users\curso\Local Sites\php7\app\public\index.php on line 66
+[14-Feb-2025 09:38:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\curso\Local Sites\php7\app\public\index.php on line 66
+[14-Feb-2025 09:41:28 UTC] PHP Warning:  Undefined variable $arrayDirectorio in C:\Users\curso\Local Sites\php7\app\public\index.php on line 66
+[14-Feb-2025 09:41:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\curso\Local Sites\php7\app\public\index.php on line 66

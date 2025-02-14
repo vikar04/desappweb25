@@ -1,0 +1,12 @@
+{
+    "pedido": [
+        {
+            "nombre": "Cachopo",
+            "cantidad": "1"
+        },
+        {
+            "nombre": "Fabada Asturiana",
+            "cantidad": 8
+        }
+    ]
+}

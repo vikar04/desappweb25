@@ -1,0 +1,1 @@
+2025/02/14 08:48:19 [error] 13692#9984: *1 directory index of "C:/Users/curso/Local Sites/php7/app/public/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "php7.local"

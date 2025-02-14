@@ -1,0 +1,34 @@
+{
+  "animales": [
+    {
+      "nombre": "Pepe",
+      "especie": "Perro",
+      "edad": 8,
+      "imagen":"https://cdn.sanity.io/images/5vm5yn1d/pro/5cb1f9400891d9da5a4926d7814bd1b89127ecba-1300x867.jpg?fm=webp&q=80"
+    },
+    {
+      "nombre": "Luna",
+      "especie": "Gato",
+      "edad": 5,
+      "imagen":"https://hospitalveterinariodonostia.com/wp-content/uploads/2020/10/gatos-854x427.png"
+    },
+    {
+      "nombre": "Rocky",
+      "especie": "Perro",
+      "edad": 3,
+      "imagen":"https://cdn.agenciasinc.es/var/ezwebin_site/storage/images/_aliases/img_1col/reportajes/y-si-tu-perro-pudiera-vivir-cien-anos/9656705-1-esl-MX/Y-si-tu-perro-pudiera-vivir-cien-anos.jpg"
+    },
+    {
+      "nombre": "Toby",
+      "especie": "Conejo",
+      "edad": 2,
+      "imagen":"https://cdn0.uncomo.com/es/posts/7/8/2/como_cuidar_un_conejo_domestico_7287_600.webp"
+    },
+    {
+      "nombre": "Zoe",
+      "especie": "Gata",
+      "edad": 6,
+      "imagen":"https://images.ctfassets.net/denf86kkcx7r/4IPlg4Qazd4sFRuCUHIJ1T/f6c71da7eec727babcd554d843a528b8/gatocomuneuropeo-97?fm=webp&w=913"
+    }
+  ]
+}
