@@ -15,6 +15,7 @@
             <li><a href="index.php">Inicio</a></li>
             <li><a href="admin.php">Administrador</a></li>
             <li><a href="contacto.php">Contactos</a></li>
+            <li><a href="login.php">Login</a></li>
         </ul>
     </nav>
 </header>

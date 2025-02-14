@@ -1,5 +1,5 @@
 <?php
-$debug = true;
+$debug = false;
 
 $archivo = 'assets/datos/empleados.json';
 function debug($message){

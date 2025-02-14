@@ -191,3 +191,54 @@ Stack trace:
 [10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 24
 [10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
 [10-Feb-2025 12:10:57 UTC] PHP Warning:  Undefined array key "mascota" in C:\Users\curso\Local Sites\php6\app\public\index.php on line 25
+[14-Feb-2025 11:42:51 UTC] PHP Warning:  Undefined array key "nombreAp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 38
+[14-Feb-2025 11:42:51 UTC] PHP Warning:  Undefined array key "ed" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 39
+[14-Feb-2025 11:42:51 UTC] PHP Warning:  Undefined array key "exp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 40
+[14-Feb-2025 11:42:51 UTC] PHP Warning:  Undefined array key "nombrePet" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 41
+[14-Feb-2025 11:42:51 UTC] PHP Warning:  Undefined array key "foto" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 42
+[14-Feb-2025 11:43:08 UTC] PHP Warning:  Undefined array key "nombreAp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 38
+[14-Feb-2025 11:43:08 UTC] PHP Warning:  Undefined array key "ed" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 39
+[14-Feb-2025 11:43:08 UTC] PHP Warning:  Undefined array key "exp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 40
+[14-Feb-2025 11:43:08 UTC] PHP Warning:  Undefined array key "nombrePet" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 41
+[14-Feb-2025 11:43:08 UTC] PHP Warning:  Undefined array key "foto" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 42
+[14-Feb-2025 11:43:09 UTC] PHP Warning:  Undefined array key "nombreAp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 38
+[14-Feb-2025 11:43:09 UTC] PHP Warning:  Undefined array key "ed" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 39
+[14-Feb-2025 11:43:09 UTC] PHP Warning:  Undefined array key "exp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 40
+[14-Feb-2025 11:43:09 UTC] PHP Warning:  Undefined array key "nombrePet" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 41
+[14-Feb-2025 11:43:09 UTC] PHP Warning:  Undefined array key "foto" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 42
+[14-Feb-2025 11:43:39 UTC] PHP Warning:  Undefined array key "nombreAp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 38
+[14-Feb-2025 11:43:39 UTC] PHP Warning:  Undefined array key "ed" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 39
+[14-Feb-2025 11:43:39 UTC] PHP Warning:  Undefined array key "exp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 40
+[14-Feb-2025 11:43:39 UTC] PHP Warning:  Undefined array key "nombrePet" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 41
+[14-Feb-2025 11:43:39 UTC] PHP Warning:  Undefined array key "foto" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 42
+[14-Feb-2025 11:50:14 UTC] PHP Parse error:  syntax error, unexpected identifier "funciones" in C:\Users\curso\Local Sites\php6\app\public\login.php on line 25
+[14-Feb-2025 11:50:25 UTC] PHP Parse error:  syntax error, unexpected identifier "funciones" in C:\Users\curso\Local Sites\php6\app\public\login.php on line 25
+[14-Feb-2025 11:50:26 UTC] PHP Parse error:  syntax error, unexpected identifier "funciones" in C:\Users\curso\Local Sites\php6\app\public\login.php on line 25
+[14-Feb-2025 11:52:20 UTC] PHP Warning:  Undefined array key "nombreAp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 38
+[14-Feb-2025 11:52:20 UTC] PHP Warning:  Undefined array key "ed" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 39
+[14-Feb-2025 11:52:20 UTC] PHP Warning:  Undefined array key "exp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 40
+[14-Feb-2025 11:52:20 UTC] PHP Warning:  Undefined array key "nombrePet" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 41
+[14-Feb-2025 11:52:20 UTC] PHP Warning:  Undefined array key "foto" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 42
+[14-Feb-2025 11:58:32 UTC] PHP Warning:  Undefined array key "nombreAp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 38
+[14-Feb-2025 11:58:32 UTC] PHP Warning:  Undefined array key "ed" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 39
+[14-Feb-2025 11:58:32 UTC] PHP Warning:  Undefined array key "exp" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 40
+[14-Feb-2025 11:58:32 UTC] PHP Warning:  Undefined array key "nombrePet" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 41
+[14-Feb-2025 11:58:32 UTC] PHP Warning:  Undefined array key "foto" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 42
+[14-Feb-2025 12:04:04 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:43 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:44 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:44 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:44 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:44 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:44 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:49 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:55 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:56 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:56 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:56 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:56 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:59 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:59 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:04:59 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:05:03 UTC] PHP Parse error:  syntax error, unexpected token "isset" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 37
+[14-Feb-2025 12:06:27 UTC] PHP Parse error:  syntax error, unexpected variable "$nombreE" in C:\Users\curso\Local Sites\php6\app\public\admin.php on line 55

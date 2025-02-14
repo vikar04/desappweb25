@@ -34,7 +34,7 @@ include_once 'bloques/header.php';
         </form>
 
         <?php
-
+                if( isset($_GET['nombreAp']) && isset($_GET['ed']) && isset($_GET['exp']) && isset($_GET['nombrePet']) && isset($_GET['foto'])){
                  $nombreE = $_GET['nombreAp'];
                  $edad = $_GET['ed'];
                  $XP = $_GET['exp'];
@@ -43,14 +43,23 @@ include_once 'bloques/header.php';
 
                 echo $nombreE;
 
+                
                 $miArray = cargarJson('assets/datos/empleados.json');
+                if(!$nombreE=='' && !$edad=='' && !$XP=='' && !$nombreP=='' && !$img==''){
                 
                 $miArray['trabajador'][]= array('nombre'=>$nombreE, 'edad'=>$edad, 'experiencia'=>$XP, 'mascota'=>$nombreP, 'imagen'=>$img);
                 mostrarJson($miArray);
-
+                }
                 $miJSON=json_encode($miArray, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 
-                file_put_contents($archivo, $miJSON)
+                file_put_contents($archivo, $miJSON);
+
+                $nombreE =null;
+                $edad =null;
+                $XP = null;
+                $nombreP= null;
+                $img=null;
+                }
         ?>
 
 <?php
