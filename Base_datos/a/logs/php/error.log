@@ -1,0 +1,6 @@
+[20-Feb-2025 08:45:17 UTC] PHP Parse error:  syntax error, unexpected token "while", expecting "," or ";" in C:\Users\curso\Local Sites\a\app\public\index.php on line 30
+[20-Feb-2025 08:45:17 UTC] PHP Parse error:  syntax error, unexpected token "while", expecting "," or ";" in C:\Users\curso\Local Sites\a\app\public\index.php on line 30
+[20-Feb-2025 08:45:38 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\curso\Local Sites\a\app\public\index.php on line 37
+[20-Feb-2025 08:45:38 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\curso\Local Sites\a\app\public\index.php on line 37
+[20-Feb-2025 08:45:53 UTC] PHP Parse error:  syntax error, unexpected variable "$conn", expecting "," or ";" in C:\Users\curso\Local Sites\a\app\public\index.php on line 39
+[20-Feb-2025 08:45:53 UTC] PHP Parse error:  syntax error, unexpected variable "$conn", expecting "," or ";" in C:\Users\curso\Local Sites\a\app\public\index.php on line 39
