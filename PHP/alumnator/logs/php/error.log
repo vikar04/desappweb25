@@ -1,0 +1,43 @@
+[24-Feb-2025 12:32:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'alumnator' in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php:28
+Stack trace:
+#0 C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php(28): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'Alumnator')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php on line 28
+[24-Feb-2025 12:35:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'alumnator' in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php:28
+Stack trace:
+#0 C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php(28): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'Alumnator')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php on line 28
+[24-Feb-2025 12:39:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'alumnator' in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php:28
+Stack trace:
+#0 C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php(28): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'Alumnator')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php on line 28
+[24-Feb-2025 12:39:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'alumnator' in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php:28
+Stack trace:
+#0 C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php(28): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'Alumnator')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php on line 28
+[24-Feb-2025 12:39:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'alumnator' in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php:28
+Stack trace:
+#0 C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php(28): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'Alumnator')
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\alumnator\app\public\alumnos.php on line 28
+[24-Feb-2025 13:05:44 UTC] PHP Parse error:  syntax error, unexpected identifier "insertar" in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php on line 3
+[25-Feb-2025 08:21:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli::real_escape_string(): Argument #1 ($string) must be of type string, array given in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php:26
+Stack trace:
+#0 C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php(26): mysqli->real_escape_string(Array)
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php on line 26
+[25-Feb-2025 08:36:42 UTC] PHP Warning:  Undefined array key "curso" in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php on line 16
+[25-Feb-2025 08:36:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli::real_escape_string(): Argument #1 ($string) must be of type string, array given in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php:26
+Stack trace:
+#0 C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php(26): mysqli->real_escape_string(Array)
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php on line 26
+[25-Feb-2025 08:37:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli::real_escape_string(): Argument #1 ($string) must be of type string, array given in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php:26
+Stack trace:
+#0 C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php(26): mysqli->real_escape_string(Array)
+#1 {main}
+  thrown in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php on line 26
+[25-Feb-2025 08:41:32 UTC] PHP Warning:  Array to string conversion in C:\Users\curso\Local Sites\alumnator\app\public\_insertar.php on line 30
